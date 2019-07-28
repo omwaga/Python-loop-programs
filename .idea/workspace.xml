@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="855fb158-6c4b-4cc5-b2a3-a7f7558a2e91" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Factorial_of_a_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial_of_a_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiplication_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Factorial_of_a_Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="221">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Multiplication_table.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -87,6 +97,7 @@
         <option value="$PROJECT_DIR$/Positive_Negative _Zero_Check.py" />
         <option value="$PROJECT_DIR$/Prime_Number_Between_Interval.py" />
         <option value="$PROJECT_DIR$/Factorial_of_a_Number.py" />
+        <option value="$PROJECT_DIR$/Multiplication_table.py" />
       </list>
     </option>
   </component>
@@ -132,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Factorial_of_a_Number">
+  <component name="RunManager" selected="Python.Multiplication_table">
     <configuration name="Check_Leap_Year" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Odd_or_Even" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Multiplication_table" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,7 +198,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Odd_or_Even.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multiplication_table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Multiplication_table" />
         <item itemvalue="Python.Factorial_of_a_Number" />
         <item itemvalue="Python.Prime_Number_Between_Interval" />
         <item itemvalue="Python.Prime Number" />
         <item itemvalue="Python.Check_Leap_Year" />
-        <item itemvalue="Python.Odd_or_Even" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +274,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.112351194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -322,8 +332,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Factorial_of_a_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multiplication_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
